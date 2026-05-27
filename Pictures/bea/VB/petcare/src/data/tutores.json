@@ -1,0 +1,24 @@
+[
+  {
+    "nome": "beatriz",
+    "cpf": "11111111111",
+    "telefone": "81999999999",
+    "email": "bea@email.com",
+    "cep": "52000-000",
+    "estado": "PE",
+    "bairro": "Casa",
+    "numero": "000",
+    "complemento": "n/a"
+  },
+  {
+    "nome": "Beatriz Pimentel",
+    "cpf": "111.709.334-40",
+    "telefone": "81999999999",
+    "email": "beapimentel1@hotmail.com",
+    "cep": "52000-000",
+    "estado": "PE",
+    "bairro": "Casa",
+    "numero": "000",
+    "complemento": "n/a"
+  }
+]
